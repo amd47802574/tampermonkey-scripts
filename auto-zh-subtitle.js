@@ -7,8 +7,8 @@
 // @match        https://www.bilibili.com/video/*
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/550242/B%E7%AB%99%E8%87%AA%E5%8A%A8%E6%89%93%E5%BC%80%E5%AD%97%E5%B9%95%EF%BC%882025%E5%B9%B49%E6%9C%88%E6%9B%B4%E6%96%B0%EF%BC%89.user.js
-// @updateURL https://update.greasyfork.org/scripts/550242/B%E7%AB%99%E8%87%AA%E5%8A%A8%E6%89%93%E5%BC%80%E5%AD%97%E5%B9%95%EF%BC%882025%E5%B9%B49%E6%9C%88%E6%9B%B4%E6%96%B0%EF%BC%89.meta.js
+// @downloadURL https://raw.githubusercontent.com/amd47802574/tampermonkey-scripts/refs/heads/main/auto-zh-subtitle.js
+// @updateURL https://raw.githubusercontent.com/amd47802574/tampermonkey-scripts/refs/heads/main/auto-zh-subtitle.js
 // ==/UserScript==
 
 (function() {
