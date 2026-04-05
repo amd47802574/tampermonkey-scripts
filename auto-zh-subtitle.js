@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         B站自动打开字幕(适应AI字幕)
 // @namespace    http://tampermonkey.net/
-// @version      2025-09-21
+// @version      1.0.1
 // @description  bilibili b站 哔哩哔哩 播放视频时自动打开网站字幕
 // @author       Hungry Shark
 // @match        https://www.bilibili.com/video/*
